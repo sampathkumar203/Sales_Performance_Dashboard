@@ -1,0 +1,6 @@
+order_id,product_category,region,sales,quantity,discount,profit
+1001,Furniture,West,3000,5,0.1,500
+1002,Office Supplies,East,1500,10,0.2,200
+1003,Technology,Central,4000,7,0.15,800
+1004,Furniture,South,2000,8,0.05,300
+1005,Technology,West,4200,9,0.2,900
